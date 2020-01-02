@@ -1,0 +1,13 @@
+Rules for creating variable in github:
+1)Variable is a name which is used to refer memory location. Variable also known as identifier and used to hold value.
+2)Variable names can be a group of both letters and digits, but they have to begin with a letter or an underscore.
+3)All the characters except the first character may be an alphabet of lower-case(a-z), upper-case (A-Z), underscore or digit (0-9).
+4)Identifier name must not contain any white-space, or special character (!, @, #, %, ^, &, *).
+5)Identifier name must not be similar to any keyword defined in the language.
+6)Identifier names are case sensitive for example myname, and MyName is not the same.
+7)Examples of valid identifiers : a123, _n, n_9, etc.
+8)Examples of invalid identifiers: 1a, n%4, n 9, etc.
+9)Python allows us to assign a value to multiple variables in a single statement which is also known as multiple assignment.
+We can apply multiple assignments in two ways either by assigning a single value to multiple variables or assigning multiple values to multiple variables.
+
+
