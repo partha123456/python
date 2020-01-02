@@ -9,5 +9,5 @@ Rules for creating variable in github:
 8)Examples of invalid identifiers: 1a, n%4, n 9, etc.
 9)Python allows us to assign a value to multiple variables in a single statement which is also known as multiple assignment.
 We can apply multiple assignments in two ways either by assigning a single value to multiple variables or assigning multiple values to multiple variables.
-
+10)Variables can hold values of different data types.
 
