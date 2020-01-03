@@ -10,4 +10,5 @@ Rules for creating variable in github:
 9)Python allows us to assign a value to multiple variables in a single statement which is also known as multiple assignment.
 We can apply multiple assignments in two ways either by assigning a single value to multiple variables or assigning multiple values to multiple variables.
 10)Variables can hold values of different data types.
+11)Variables is of two types:a.Global variables  b.local variables
 
